@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @bcornick
+- 👀 I’m interested in: way too many things! Most notably, I am interested in the intersection of blockchain with machine learning and data science.
+- 🌱 I’m currently learning more: front-end web development (JS, React) and blockchain dev (Solidity). I have past experience with C++, Python, HTML/CSS, and MATLAB.
+- 💞️ I’m looking to collaborate on: anything related to web3!
+- 📫 How to reach me: find me on Twitter! @brett_cornick
